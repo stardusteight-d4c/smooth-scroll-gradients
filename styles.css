@@ -323,7 +323,7 @@
 .main__btn a {
   position: relative;
   z-index: 2;
-  color: #131313;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -334,13 +334,9 @@
   left: 0;
   width: 0;
   height: 100%;
-  background: #fff;
+  background: #333399;
   transition: all 0.55s;
   border-radius: 4px;
-}
-
-.main__btn:hover {
-  color: #fff;
 }
 
 .main__btn:hover:after {
@@ -479,9 +475,9 @@
   flex-direction: column;
   justify-content: center;
   color: #131313;
-  background: #f7ff00;  /* fallback for old browsers -- Alihossein */
-  background: -webkit-linear-gradient(to right, #db36a4, #f7ff00);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(-255deg, #db36a4, #f7ff00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+  background: #2193b0;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
   transition: 0.3s ease-in;
   padding: 1rem;
 }
