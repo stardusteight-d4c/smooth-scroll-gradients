@@ -428,6 +428,10 @@
     font-size: 4rem;
   }
 
+  .fa-layer-group, .fa-users {
+    font-size: 4rem;
+  }
+
   .main__content h1 {
     font-size: 2rem;
     margin-top: 3rem;
