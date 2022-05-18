@@ -2,4 +2,4 @@
 
 ![demo](demo.png)
 
-Learn with: ![Brian Design](https://github.com/briancodex)
+Learn with: ![Brian Design](https://github.com/briancodex) <3
