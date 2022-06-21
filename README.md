@@ -1,5 +1,5 @@
-# #traininglayout smooth-scroll-gradients
+# Website | Gradients + Smooth Scroll Effect
 
-![demo](demo.png)
+![cover](cover.png)
 
-Learn with: ![Brian Design](https://github.com/briancodex) <3
+> Building a website using HTML, CSS and Javascript. Fully responsive website with smooth scrolling effect that highlights the navigation bar menu based on your scrolled position. Project taught on Brian Design channel.
